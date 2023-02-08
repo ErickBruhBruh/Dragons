@@ -796,7 +796,7 @@ if usr=='dragon':
        t.setpos(-120.00,45.00) 
        t.setpos(-135.00,45.00) 
 
- #Insert Part Name 1
+ #Finish head, now on body
        t.begin_fill() 
        t.setpos(-120.00,45.00) 
        t.setpos(-105.00,45.00) 
@@ -1013,7 +1013,7 @@ if usr=='dragon':
        t.right(15) 
        t.end_fill() 
 
- #Insert Part Name 2
+ #Spikes
        t.left(15) 
        t.left(15) 
        t.left(15) 
@@ -1188,7 +1188,7 @@ if usr=='dragon':
        t.end_fill() 
        t.up() 
 
- #Insert Part Name 3
+ #Legs
        t.setpos(-135.14,44.98) 
        t.left(15) 
        t.setpos(-149.63,41.10) 
@@ -1420,7 +1420,7 @@ if usr=='dragon':
        t.setpos(271.87,-127.52) 
        t.end_fill() 
 
- #Insert Part Name 4
+ #tail
        t.setpos(256.87,-127.52) 
        t.setpos(241.87,-127.52) 
        t.setpos(226.87,-127.52) 
@@ -1519,7 +1519,7 @@ if usr=='dragon':
        t.right(15)
 
       while True:
- #Insert Part Name 5
+ #Reapeating breath of fire
        p=turtle.Turtle()
        t=p
        t.begin_fill() 
