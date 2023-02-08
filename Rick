@@ -1013,7 +1013,7 @@ if usr=='dragon':
        t.right(15) 
        t.end_fill() 
 
- #Body
+ #Body end legs below
        t.left(15) 
        t.left(15) 
        t.left(15) 
@@ -1188,7 +1188,7 @@ if usr=='dragon':
        t.end_fill() 
        t.up() 
 
- #Spikes
+ #Spikes below
        t.setpos(-135.14,44.98) 
        t.left(15) 
        t.setpos(-149.63,41.10) 
